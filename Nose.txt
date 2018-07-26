@@ -1,0 +1,8 @@
+You can use the pip command to install the 3rd party package such as
+
+>> pip install nose
+
+it will install the nose package. The nose package is use to run the unittests of your python file.
+It looks for the all tests in your files and execute them eg:
+
+>> nosetests file.py
