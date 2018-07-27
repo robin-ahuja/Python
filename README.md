@@ -1,2 +1,2 @@
 # Python
-Basic of Pythons
+Understand the basics and intermediate of python
